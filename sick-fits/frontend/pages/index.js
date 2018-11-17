@@ -5,8 +5,6 @@ const Home = props => (
         <Link href='/sell'>
             <a>Sell!!</a>
         </Link>
-
-        <p>hey</p>
     </div>
 )
 
