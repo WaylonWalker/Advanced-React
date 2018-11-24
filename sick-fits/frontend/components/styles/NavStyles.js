@@ -50,6 +50,9 @@ const NavStyles = styled.ul`
       outline: none;
       &:after {
         width: calc(100% - 60px);
+    @media (max-width: 700px) {
+        width: calc(100% - 10px);
+    }
       }
     @media (max-width: 700px) {
         width: calc(100% - 10px);
